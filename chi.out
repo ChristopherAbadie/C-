@@ -1,0 +1,9 @@
+TrackLength: 10000
+MaxVelocity: 10
+SlowDownProbability: 0.1
+NumberOfCars: 2000
+MaxTime: 100000
+RandomSeed: 1
+
+LAMBDA: 6.4243
+CHI-SQUARE: 5138
